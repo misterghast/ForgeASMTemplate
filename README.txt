@@ -1,3 +1,8 @@
+This is a template for 1.12.2 ASM shenanigans. It should work fine for generic mod use, but if you want to do anything overly complicated it's there for you!
+
+Original Forge readme for consistency and simplicity's sake:
+
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
